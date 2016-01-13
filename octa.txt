@@ -1,1 +1,5 @@
-texttest
+var trainWhistles = 3
+trainWhistles += 3
+trainWhistles *=2
+
+
